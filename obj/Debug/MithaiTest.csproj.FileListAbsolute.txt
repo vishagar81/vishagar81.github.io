@@ -1,0 +1,5 @@
+D:\vishal\projects\MithaiTest\MithaiTest\bin\MithaiTest.dll
+D:\vishal\projects\MithaiTest\MithaiTest\bin\MithaiTest.pdb
+D:\vishal\projects\MithaiTest\MithaiTest\obj\Debug\MithaiTest.csprojResolveAssemblyReference.cache
+D:\vishal\projects\MithaiTest\MithaiTest\obj\Debug\MithaiTest.dll
+D:\vishal\projects\MithaiTest\MithaiTest\obj\Debug\MithaiTest.pdb

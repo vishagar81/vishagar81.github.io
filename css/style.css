@@ -1,0 +1,22 @@
+﻿/*!
+ * Extend Bootstrap v2.3.1 to provide cell alignment (doh)
+ *
+ */
+.table td.tdRight {
+  text-align: right;
+}
+.table td.tdCenter {
+  text-align: center;
+}
+.table-nonfluid {
+   width: auto;
+}
+
+.gradient-vert {
+    background: #f1d84d;
+    background: -webkit-gradient(linear, left top, left bottom, from(#013567), to(#f1d84d));
+    background: -moz-linear-gradient(top, #013567, #f1d84d);
+    background: -o-linear-gradient(top, #013567, #f1d84d);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#013567, endColorstr=#f1d84d);    
+    background: linear-gradient(left, #013567 0%, #f1d84d 100%);
+}
